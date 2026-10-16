@@ -1,5 +1,5 @@
 # git-practical
 
-- Name: Aung Aung
+- Name: Hla Hla
 - Role: Internship
 - Learning: Understanding Git and Github
